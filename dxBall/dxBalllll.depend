@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1635779333 source:c:\users\guest1\desktop\grafik_230921\dxballlll\dxball.c
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+
+1266087014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1648900367 source:c:\users\guest1\desktop\emir code\dxball_grafik\grafik_230921\dxballlll\dxball.c
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+
+1648901276 source:c:\users\guest1\desktop\dxball\dxball.c
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+
